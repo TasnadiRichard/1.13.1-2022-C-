@@ -1,0 +1,21 @@
+using System;
+
+namespace TestApp
+{ 
+    class Progmram
+    {
+        static void Main(string[] args)
+        { 
+            string s = "ezegystring";
+            Console.WriteLine(s[0]); // e
+
+            Console.ReadKey();
+        }
+    }
+}
+
+foreach (char ch in s)
+{
+     Console.WriteLine(ch);
+}
+

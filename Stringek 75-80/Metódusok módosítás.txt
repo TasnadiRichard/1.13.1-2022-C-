@@ -1,0 +1,23 @@
+using System;
+
+namespace TestApp
+{
+      class Program    
+      {
+           static void Main(string[] args)
+           {
+               string s = "smallstring";             
+               char[] chs = newchar[] { 's', 'g' };
+
+               Console.WriteLine(s.Replace('s', 'l')); // lmallltring
+               Console.WriteLine(s.Trim(chs)); // mallstrin
+               Console.WriteLine(s.Insert(0, "one")); // onesmallstring
+               Console.WriteLine(s.Remove(0, 2)); // allstring
+               Console.WriteLine(s.Substring(0, 3)); // sma
+               Console.WriteLine(s.ToUpper()); // SMALLSTRING
+               Console.WriteLine(s.ToLower()); // smallstring
+
+               Console.ReadKey();
+           }
+      }
+}
