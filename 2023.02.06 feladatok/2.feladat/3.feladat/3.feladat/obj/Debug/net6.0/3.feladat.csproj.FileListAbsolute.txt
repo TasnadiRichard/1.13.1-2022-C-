@@ -1,0 +1,15 @@
+C:\Users\tasnadi.richard\source\repos\1.13.1-2022-CSH\Feladatok\3.feladat\3.feladat\bin\Debug\net6.0\3.feladat.exe
+C:\Users\tasnadi.richard\source\repos\1.13.1-2022-CSH\Feladatok\3.feladat\3.feladat\bin\Debug\net6.0\3.feladat.deps.json
+C:\Users\tasnadi.richard\source\repos\1.13.1-2022-CSH\Feladatok\3.feladat\3.feladat\bin\Debug\net6.0\3.feladat.runtimeconfig.json
+C:\Users\tasnadi.richard\source\repos\1.13.1-2022-CSH\Feladatok\3.feladat\3.feladat\bin\Debug\net6.0\3.feladat.dll
+C:\Users\tasnadi.richard\source\repos\1.13.1-2022-CSH\Feladatok\3.feladat\3.feladat\bin\Debug\net6.0\3.feladat.pdb
+C:\Users\tasnadi.richard\source\repos\1.13.1-2022-CSH\Feladatok\3.feladat\3.feladat\obj\Debug\net6.0\3.feladat.csproj.AssemblyReference.cache
+C:\Users\tasnadi.richard\source\repos\1.13.1-2022-CSH\Feladatok\3.feladat\3.feladat\obj\Debug\net6.0\3.feladat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tasnadi.richard\source\repos\1.13.1-2022-CSH\Feladatok\3.feladat\3.feladat\obj\Debug\net6.0\3.feladat.AssemblyInfoInputs.cache
+C:\Users\tasnadi.richard\source\repos\1.13.1-2022-CSH\Feladatok\3.feladat\3.feladat\obj\Debug\net6.0\3.feladat.AssemblyInfo.cs
+C:\Users\tasnadi.richard\source\repos\1.13.1-2022-CSH\Feladatok\3.feladat\3.feladat\obj\Debug\net6.0\3.feladat.csproj.CoreCompileInputs.cache
+C:\Users\tasnadi.richard\source\repos\1.13.1-2022-CSH\Feladatok\3.feladat\3.feladat\obj\Debug\net6.0\3.feladat.dll
+C:\Users\tasnadi.richard\source\repos\1.13.1-2022-CSH\Feladatok\3.feladat\3.feladat\obj\Debug\net6.0\refint\3.feladat.dll
+C:\Users\tasnadi.richard\source\repos\1.13.1-2022-CSH\Feladatok\3.feladat\3.feladat\obj\Debug\net6.0\3.feladat.pdb
+C:\Users\tasnadi.richard\source\repos\1.13.1-2022-CSH\Feladatok\3.feladat\3.feladat\obj\Debug\net6.0\3.feladat.genruntimeconfig.cache
+C:\Users\tasnadi.richard\source\repos\1.13.1-2022-CSH\Feladatok\3.feladat\3.feladat\obj\Debug\net6.0\ref\3.feladat.dll
