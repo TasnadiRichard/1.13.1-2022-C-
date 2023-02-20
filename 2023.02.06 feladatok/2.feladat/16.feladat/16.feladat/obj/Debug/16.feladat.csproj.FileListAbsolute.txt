@@ -1,0 +1,3 @@
+C:\Users\tasnadi.richard\source\repos\1.13.1-2022-CSH\Feladatok\16.feladat\16.feladat\obj\Debug\16.feladat.csproj.AssemblyReference.cache
+C:\Users\tasnadi.richard\source\repos\1.13.1-2022-CSH\Feladatok\16.feladat\16.feladat\obj\Debug\16.feladat.csproj.SuggestedBindingRedirects.cache
+C:\Users\tasnadi.richard\source\repos\1.13.1-2022-CSH\Feladatok\16.feladat\16.feladat\obj\Debug\16.feladat.csproj.CoreCompileInputs.cache
