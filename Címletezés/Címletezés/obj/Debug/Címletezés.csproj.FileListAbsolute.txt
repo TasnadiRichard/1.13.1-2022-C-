@@ -1,0 +1,8 @@
+D:\1-13-1 2023 Css\2023.03.09\Címletezés\Címletezés\bin\Debug\Címletezés.exe.config
+D:\1-13-1 2023 Css\2023.03.09\Címletezés\Címletezés\bin\Debug\Címletezés.exe
+D:\1-13-1 2023 Css\2023.03.09\Címletezés\Címletezés\bin\Debug\Címletezés.pdb
+D:\1-13-1 2023 Css\2023.03.09\Címletezés\Címletezés\obj\Debug\Címletezés.csproj.AssemblyReference.cache
+D:\1-13-1 2023 Css\2023.03.09\Címletezés\Címletezés\obj\Debug\Címletezés.csproj.SuggestedBindingRedirects.cache
+D:\1-13-1 2023 Css\2023.03.09\Címletezés\Címletezés\obj\Debug\Címletezés.csproj.CoreCompileInputs.cache
+D:\1-13-1 2023 Css\2023.03.09\Címletezés\Címletezés\obj\Debug\Címletezés.exe
+D:\1-13-1 2023 Css\2023.03.09\Címletezés\Címletezés\obj\Debug\Címletezés.pdb
