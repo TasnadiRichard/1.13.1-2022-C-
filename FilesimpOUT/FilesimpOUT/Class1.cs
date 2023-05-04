@@ -17,6 +17,8 @@ namespace FileIO
         private FileAccess fileAccess;
         private FileStream fs;
         private StreamReader sr;
+        private StreamWriter sr2;
+
 
         // Konstructor
         public FileInOut()
@@ -36,7 +38,7 @@ namespace FileIO
             bool ismet;
             string s;
 
-            Console.WriteLine("Adja meg a műveletet: "); // Létrehoz egy új fájl, ha már létezik, a tartalmát kitörli
+            Console.WriteLine("Adja meg a műveletet: "); // Létrehoz egy új fájlt, ha már létezik, a tartalmát kitörli
             Console.WriteLine("     cr:  Create"); // Mint előbb, de ha már létezik a fájl, akkor kivételt dob
             Console.WriteLine("     crn: CreateNew"); //Megnyit egy fájlt, ha nem létezik, akkor kivételt dob
             Console.WriteLine("     o:   Open"); // Mint előbb, de ha nem létezik a fájl, akkor kivételt dob
@@ -87,17 +89,22 @@ namespace FileIO
                 }
             } while (ismet);
         }
-        public StreamReader getFile()
+        public FileStream getFile()
         {
-            this.fs = new FileStream(this.fileName, this.fileMode, this.fileAccess);
-            this.sr = new StreamReader(fs);
-            return sr;
+            return new FileStream(this.fileName, this.fileMode, this.fileAccess);
         }
         public void closeFile()
         {
             if (this.sr != null) { this.sr.Close(); }
             if (this.fs != null) { this.fs.Close(); }
         }
+        public StreamWriter getFile2()
+        {
+            this.fs = new FileStream(this.fileName, this.fileMode, this.fileAccess);
+            this.sr2 = new StreamWriter(fs);
+            return sr2;
+        }
+
     }
 }
 

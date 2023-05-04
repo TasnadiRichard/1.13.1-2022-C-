@@ -5,14 +5,14 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 
-namespace FileIO
+namespace FileInpOut
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            FileInOut f = new FileInOut();
-            using (StreamReader sr = f.getFile())
+            FileInpOut f = new FileInpOut();
+            
             {
                 // Dolgozzunk a fájllal
                 //Egészet kiolvassa
@@ -32,25 +32,19 @@ namespace FileIO
                     Console.WriteLine(s2);
                 }
             }
+            f.closeFile();
+            using (StreamReader sr = f.getFile())
             {
-                f.closeFile();
-                using (StreamReader sr = f.getFile())
+                // Dolgozzunk a fájllal
+                //Egészet kiolvassa
+
+                Console.WriteLine("Soronként olvass a fájlt!");
+
+                // Soronként olvas
+                while (!sr.EndOfStream) // s != null
                 {
-                    // Dolgozzunk a fájllal
-                    //Egészet kiolvassa
-
-                    Console.WriteLine("Soronként olvass a fájlt!");
-
-                    // Soronként olvas
-                    while (!sr.EndOfStream) // s != null
-                    {
-                        string s = sr.ReadLine();
-                        Console.WriteLine(s);
-                    }
-                    using (StreamWriter sr2 = f.getFile2())
-                    {
-                        sr2.Write("Szia! Ez a teszt");
-                    }
+                    string s = sr.ReadLine();
+                    Console.WriteLine(s);
                 }
             }
             Console.ReadKey();
