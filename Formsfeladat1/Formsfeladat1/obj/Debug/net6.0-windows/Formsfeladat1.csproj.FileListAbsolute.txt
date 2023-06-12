@@ -1,0 +1,17 @@
+C:\Users\tasnadi.richard\cucc\6-12\Formsfeladat1\Formsfeladat1\bin\Debug\net6.0-windows\Formsfeladat1.exe
+C:\Users\tasnadi.richard\cucc\6-12\Formsfeladat1\Formsfeladat1\bin\Debug\net6.0-windows\Formsfeladat1.deps.json
+C:\Users\tasnadi.richard\cucc\6-12\Formsfeladat1\Formsfeladat1\bin\Debug\net6.0-windows\Formsfeladat1.runtimeconfig.json
+C:\Users\tasnadi.richard\cucc\6-12\Formsfeladat1\Formsfeladat1\bin\Debug\net6.0-windows\Formsfeladat1.dll
+C:\Users\tasnadi.richard\cucc\6-12\Formsfeladat1\Formsfeladat1\bin\Debug\net6.0-windows\Formsfeladat1.pdb
+C:\Users\tasnadi.richard\cucc\6-12\Formsfeladat1\Formsfeladat1\obj\Debug\net6.0-windows\Formsfeladat1.csproj.AssemblyReference.cache
+C:\Users\tasnadi.richard\cucc\6-12\Formsfeladat1\Formsfeladat1\obj\Debug\net6.0-windows\Formsfeladat1.Form1.resources
+C:\Users\tasnadi.richard\cucc\6-12\Formsfeladat1\Formsfeladat1\obj\Debug\net6.0-windows\Formsfeladat1.csproj.GenerateResource.cache
+C:\Users\tasnadi.richard\cucc\6-12\Formsfeladat1\Formsfeladat1\obj\Debug\net6.0-windows\Formsfeladat1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tasnadi.richard\cucc\6-12\Formsfeladat1\Formsfeladat1\obj\Debug\net6.0-windows\Formsfeladat1.AssemblyInfoInputs.cache
+C:\Users\tasnadi.richard\cucc\6-12\Formsfeladat1\Formsfeladat1\obj\Debug\net6.0-windows\Formsfeladat1.AssemblyInfo.cs
+C:\Users\tasnadi.richard\cucc\6-12\Formsfeladat1\Formsfeladat1\obj\Debug\net6.0-windows\Formsfeladat1.csproj.CoreCompileInputs.cache
+C:\Users\tasnadi.richard\cucc\6-12\Formsfeladat1\Formsfeladat1\obj\Debug\net6.0-windows\Formsfeladat1.dll
+C:\Users\tasnadi.richard\cucc\6-12\Formsfeladat1\Formsfeladat1\obj\Debug\net6.0-windows\refint\Formsfeladat1.dll
+C:\Users\tasnadi.richard\cucc\6-12\Formsfeladat1\Formsfeladat1\obj\Debug\net6.0-windows\Formsfeladat1.pdb
+C:\Users\tasnadi.richard\cucc\6-12\Formsfeladat1\Formsfeladat1\obj\Debug\net6.0-windows\Formsfeladat1.genruntimeconfig.cache
+C:\Users\tasnadi.richard\cucc\6-12\Formsfeladat1\Formsfeladat1\obj\Debug\net6.0-windows\ref\Formsfeladat1.dll
